@@ -4,4 +4,4 @@ In this project, I apply classifiers to news articles announcing CEO hires to un
 
 •	Analyzed feature importance scores from classifiers (support vector machines and random forests) to identify ngrams that characterized descriptions of outside CEOs in different decades.
 
-•	Assessed interpretability of classifiers relative to close readings of CEO announcement articles.
+•	Assessed interpretability of classifiers by comparing feature importance scores across classifiers and within classifiers across subsamples, and by triangulating against close readings of articles.
